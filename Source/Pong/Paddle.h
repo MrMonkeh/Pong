@@ -28,5 +28,7 @@ public:
 	void MoveUp(float Value);
 	UFUNCTION()
 	void MoveRight(float Value);
+
+
 	
 };

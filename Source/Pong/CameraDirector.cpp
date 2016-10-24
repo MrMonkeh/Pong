@@ -28,6 +28,7 @@ void ACameraDirector::BeginPlay()
 // Called every frame
 void ACameraDirector::Tick( float DeltaTime )
 {
+	
 	Super::Tick( DeltaTime );
 
 }
