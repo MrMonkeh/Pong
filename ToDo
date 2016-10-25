@@ -1,12 +1,8 @@
 Paddle:
 -Give it a better mesh/artwork.
--Implement limitations; don't let it go too far up/down, left/right
 -When Ball is implemented, use correct physics to bounce ball off
 
 Ball:
--Create the class
--Implement limitations; don't let it go too far up/down, left/right
--Allow bouncing off of sides and paddles
 -Reset in middle when someone scores
 
 Level:
