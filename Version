@@ -1,0 +1,4 @@
+Recent changes (SJ+JGH):
+-Added PaddleAI which follows the ball along the Z and Y access based on a changeable speed.
+-Added Ball that bounces between the paddles.
+-Added limitations for the paddles and ball so they are limited within a certain distance in all directions.
