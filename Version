@@ -1,3 +1,6 @@
+10/31/16 (SJ):
+-Added Main Menu with Play/Quit options.
+
 Recent changes (SJ+JGH):
 -Added PaddleAI which follows the ball along the Z and Y access based on a changeable speed.
 -Added Ball that bounces between the paddles.
