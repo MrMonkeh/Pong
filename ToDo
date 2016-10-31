@@ -1,16 +1,13 @@
 Paddle:
--Give it a better mesh/artwork.
+-Give it a better mesh/artwork. (slightly better now, could still be improved -JGH)
 -When Ball is implemented, use correct physics to bounce ball off
 
 Ball:
--Reset in middle when someone scores
 
 Level:
 -Design the level. Black background, with just the paddles and ball?
--Show scores
 
 Game:
--Implement scoring
--When someone scores, reset the ball, increase score
+-End game if score reaches 0
 -Ability to pause/quit
 -Start screen
