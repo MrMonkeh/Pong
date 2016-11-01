@@ -1,4 +1,7 @@
-Recent changes (JGH):
+10/31/16 (SJ):
+-Added Main Menu with Play/Quit options.
+
+10/30/16 (JGH):
 -Changed player paddle material to glass so ball can be seen through it
 -Added scoring if ball goes past +/-400
 -Reset ball to middle after a score
