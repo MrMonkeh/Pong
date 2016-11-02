@@ -46,9 +46,9 @@ void APaddle::MoveUp(float Value)
 		current.Z = 498;
 		SetActorLocation(current);
 	}
-	else if (floor(current.Z) - 1 < -500)
+	else if (floor(current.Z) - 1 < 34)
 	{
-		current.Z = -498;
+		current.Z = 36;
 		SetActorLocation(current);
 	}
 	else
